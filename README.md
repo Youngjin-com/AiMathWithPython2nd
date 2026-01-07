@@ -1,4 +1,4 @@
-# 처음 만나는 AI 수학 with Python
+# 처음 만나는 AI 수학 with Python 2ND
 
 
 <img src="https://www.youngjin.com/images/book_cover/9788931463378.jpg" height="350px" style="border: 2px solid grey;">
