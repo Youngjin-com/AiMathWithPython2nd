@@ -1,5 +1,5 @@
 # 처음 만나는 AI 수학 with 파이썬 2ND
-<img width="3898" height="4134" alt="Image" src="https://github.com/user-attachments/assets/1460db87-a9a9-4829-9d7d-c0404b509d9b" />
+<img width="3307" height="3898" alt="Image" src="https://github.com/user-attachments/assets/9793d183-6098-4638-a248-433d99128c9c" />
 
 - 저자: 아즈마 유키나가
 - 역자: 유세라
